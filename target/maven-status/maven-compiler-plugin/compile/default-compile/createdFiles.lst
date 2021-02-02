@@ -1,0 +1,6 @@
+ohara/linda/sfgdi/services/GreetingService.class
+ohara/linda/sfgdi/SfgDiApplication.class
+ohara/linda/sfgdi/controllers/PropertyInjectedController.class
+ohara/linda/sfgdi/controllers/SetterInjectedController.class
+ohara/linda/sfgdi/controllers/MyController.class
+ohara/linda/sfgdi/services/GreetingServiceImpl.class
